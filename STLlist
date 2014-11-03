@@ -5,10 +5,28 @@ Material: Stone, Marble
 Location: The Usher Gallery, Lincoln 
 Inscription: Mercury / Joseph Nollekens / Presented By The Rt. Honble. / The Earl of Yarborough, P.C. / 1930
 Object Number: LCNUG: 1927/140
+Physical Dimensions:
+object height: 105.5cm
+object length: 36.5cm
+object width: 68.7cm
+plinth height: 67cm
+plinth length: 84.5cm
+plinth width: 54cm
 Source: http://lincoln3dscans.co.uk/mercury/
 
 
-
+2.
+venus+kissing+cupid.stl
+Artist: John Gibson
+Period: 19th Century
+Material: Marble
+Inscription: Gibson fecit Roma
+Location: The Usher Gallery, Lincoln
+Physical Dimensions:
+Object Length: 61cm
+Object Width: 98cm 
+Object Height: 121cm 
+source: http://lincoln3dscans.co.uk/venus-kissing-cupid/
 
 
 
@@ -63,18 +81,7 @@ Material: Alabaster, Stone
 Location: St. Mary Le Wigford
 source: http://lincoln3dscans.co.uk/grantham-tomb
 
-7. venus+kissing+cupid.stl
-Artist: John Gibson
-Period: 19th Century
-Material: Marble
-Inscription: Gibson fecit Roma
-Location: The Usher Gallery, Lincoln
-Physical Dimensions:
-Object Length: 61cm
-Object Width: 98cm 
-Object Height: 121cm 
-source: http://lincoln3dscans.co.uk/venus-kissing-cupid/
-
+7. 
 8. +++Cupid+and+Psyche.stl
 Artist: Unknown
 Period: Romano-British 
@@ -89,4 +96,3 @@ Location: The Collection
 Material: Stone
 Object Number: LCNCC : 1963.82
 source: http://lincoln3dscans.co.uk/stone-torso/
-
